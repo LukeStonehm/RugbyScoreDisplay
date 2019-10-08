@@ -1,0 +1,23 @@
+{
+  "name": "rugbyscoredisplay",
+  "version": "1.0.0",
+  "description": "Displays the score for a rugby team, using Google's score tracker",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeStonehm/RugbyScoreDisplay.git"
+  },
+  "author": "Luke Johnstone",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/LukeStonehm/RugbyScoreDisplay/issues"
+  },
+  "homepage": "https://github.com/LukeStonehm/RugbyScoreDisplay#readme",
+  "devDependencies": {
+    "electron": "^6.0.11"
+  }
+}
